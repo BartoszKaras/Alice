@@ -1,2 +1,3 @@
 git fetch test
 zmiana 2
+inna zmiana2
